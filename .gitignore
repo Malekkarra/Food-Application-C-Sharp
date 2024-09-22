@@ -1,0 +1,45 @@
+# Visual Studio
+.vs
+.suo
+.user
+.userprefs
+.sln.docstates
+
+# Build results
+[Dd]ebug
+[Rr]elease
+[xX]64
+[xX]86
+[Aa][Rr][Mm]
+[Bb]in
+[Oo]bj
+[Ll]og
+
+# NuGet Packages
+.nupkg
+.snupkg
+packages
+
+# Visual Studio Code
+.vscode
+
+# Rider
+.idea
+
+# Backup & Report files
+.bak
+.log
+.tmp
+
+# Others
+.cache
+.pdb
+.mdb
+.dll
+.exe
+.appx
+.appxbundle
+.appxupload
+.msix
+.msixbundle
+.msixupload
